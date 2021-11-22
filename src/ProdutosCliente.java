@@ -1,5 +1,6 @@
 public class ProdutosCliente {
-    private String produto;
+    public String produto;
+    public int preco;
     
 
    

@@ -3,8 +3,8 @@ public class ContaCliente {
     private int cpf;
     public int pacoteServico;
 
-    public int obterCpf (int numcpf) {
-        return numcpf;
+    public int obterCpf () {
+        return cpf;
 
     }
 
